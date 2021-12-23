@@ -1,4 +1,4 @@
-# excel-pandas-utility
+# excel-api
 
 If python is installed in your system, then pip comes in handy.
 So simple steps are:
